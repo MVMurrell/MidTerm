@@ -37,7 +37,7 @@
 			<div class="col-sm-6">
 			<h3 id="about">About</h3>
 			<br>
-			<p>Welcome to VolunteerUp! We believe that change starts locally, in our neighborhoods and communities, and that we can do more together than we can do on our own. We wanted to find a way to get together with other people in our community who want to make a positive impact, and empower us to get shit done. Please browse the projects other users have planned and executed, and if you haven't yet, join our site, create an account, and plan or join your first project!</p>
+			<p>Welcome to VolunteerUp! We believe that change starts locally, in our neighborhoods and communities, and that we can do more together than we can do on our own. We wanted to find a way to get together with other people in our community who want to make a positive impact, and empower us to get stuff done. Please browse the projects other users have planned and executed, and if you haven't yet, join our site, create an account, and plan or join your first project!</p>
 			<br>
 			</div>
 		</div>
@@ -73,7 +73,7 @@
 			<br>
 			<strong>Braiden Miller</strong>
 			<br>
-			<text>DBA, someone get this guy a Snickers. "Can't we do just one more stretch goal?" </text>
+			<text>DBA, "Can't we do just one more stretch goal?" </text>
 			</div>
 			<div class="col-sm-4">
 			<img src="http://www.comedycentral.co.uk/sites/default/files/styles/image-w-520-h-520-scale/public/cc_uk/galleries/large/2017/01/10/ross_finds_out_rachel_pregnant.jpg?itok=gYlbc7Cn" width="250" height="250">

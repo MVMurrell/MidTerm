@@ -78,16 +78,12 @@ public class UserController {
 	public String submitHours(Integer userId, Integer hours, Integer projectId, Model model, RedirectAttributes redir) {
 		List<ProjectVolunteer> pv = new ArrayList<>();
 		Project project = projectDAO.findProject(projectId);
-		System.out.println(project);
-		System.out.println(userId);
-		System.out.println(hours);
 		pv.addAll(project.getProjectVolunteer());
 		for (ProjectVolunteer projectVolunteer : pv) {
 			if (projectVolunteer.getVolunteer().getUserid() == userId) {
 
 				projectVolunteer.setHoursActual(hours);
 				projectVolunteer = pvDAO.updatePV(projectVolunteer);
-				System.out.println(projectVolunteer);
 				redir.addAttribute("projectId", projectId);
 				return "redirect:viewProject.do";
 			}
